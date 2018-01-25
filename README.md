@@ -1,2 +1,2 @@
 # hello-world
-Yet another "hello world"
+Just another Hello World
